@@ -1,0 +1,248 @@
+body
+{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+/* GENERAL STYLE */
+
+.Gradasi
+{
+    background-color:powderblue;
+    color: #01579b;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.content
+{
+    padding: 30px;
+    
+}
+
+.oa
+{
+    overflow: auto;
+}
+
+/* HEADER SECTION  */
+
+.header {
+    
+    padding: 0 50px;
+}
+
+.header-container {
+    padding: 20px 0;
+}
+
+.header-container img
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid #ffd;
+}
+
+.nav
+{
+    width: auto;
+    float: right;
+    padding: 20px 0;
+}
+
+.nav a
+{
+    text-decoration: none;
+    color: #01579b ;
+    margin: 0 8px;
+}
+
+.nav a:hover
+{
+    color: #00b0ff;
+}
+
+.name
+{
+    font-family: 'Modak', cursive;
+    letter-spacing: 3px;
+    font-size: 35pt;
+    text-align: center;
+    color: #01579b;
+}
+
+.detail-name {
+    text-align: center;
+    color: #01579b;
+    font-weight: 800;
+    font-size: 18pt;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+
+.background-name
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.stars{
+    padding: 0px 0px;
+}
+.stars-1
+{
+    padding: 0 125px;
+}
+.stars-2
+{
+    padding: 0 125px;
+}
+.stars-3
+{
+    padding: 0 125px;
+}
+.stars-4
+{
+    padding: 0 125px;
+}
+
+/* CONTENT 1 */
+
+.round-image img
+{
+    width: 170px;
+    border: 2px solid #222;
+    padding: 3px;
+    border-radius: 50%;
+}
+
+.title
+{
+    font-size: 20pt;
+    margin-top: 16px
+}
+
+.detail-1
+{
+    max-width: 720px;
+    margin: 16px auto;
+    line-height: 26px;
+}
+
+/* CONTENT 2 */
+.profile-title
+{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 24pt;
+}
+
+.profile
+{
+    margin-top: 50px;
+    min-height: 160px;
+    max-width: 840px;
+    margin: 50px auto;
+}
+
+.profile p
+{
+    line-height: 2;
+}
+
+.profile-kiri > div
+{
+    margin-left: 220px;
+}
+
+.profile-kanan > div
+{
+    margin-right: 220px;
+}
+
+.profile > img
+{
+    width: 120px;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.profile-kiri > img
+{
+    float: left;
+}
+
+.profile-kanan > img
+{
+    float: right;
+}
+
+.skill-logo
+{
+    background-color: #15f7e4;
+}
+
+.org-logo
+{
+    background-color: #15f7e4;
+}
+
+.it-logo
+{
+    background-color: #15f7e4;
+}
+
+/* FOOTER */
+.footer
+{
+    padding: 30px 80px;
+    background-color: #40bad5;
+}
+
+.footer a
+{
+    text-decoration: none;
+}
+
+.footer > div
+{
+    text-align: center;
+}
+
+.navbot a
+{
+    margin: 0 30px;
+    color: #fff;
+    font-size: 14pt;
+}
+
+.navbot a:hover
+{
+    color: #f2ed6f;
+}
+
+.sosmed
+{
+    margin-top: 20px;
+}
+
+.sosmed a
+{
+    color: #fff;
+    margin: 0 50px;
+    font-size: 14pt;
+}
+
+.sosmed a:hover
+{
+    color: #f2ed6f;
+}
+
+.footer hr
+{
+    width: 300px;
+    margin-top: 20px;
+}

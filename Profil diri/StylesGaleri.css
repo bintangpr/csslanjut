@@ -1,0 +1,121 @@
+body
+{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* GENERAL STYLE */
+
+.Gradasi
+{
+    background-color:powderblue;
+    color: #01579b;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.content
+{
+    padding: 30px;
+    
+}
+
+.oa
+{
+    overflow: auto;
+}
+.header {
+    
+    padding: 0 50px;
+}
+
+.header-container {
+    padding: 20px 0;
+}
+
+.header-container img
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid #ffd;
+}
+.nav
+{
+    width: auto;
+    float: right;
+    padding: 20px 0;
+}
+
+.nav a
+{
+    text-decoration: none;
+    color: #01579b ;
+    margin: 0 8px;
+}
+
+.nav a:hover
+{
+    color: #00b0ff;
+}
+.Resize {
+    max-width: 150px;
+    height: 150px;
+}
+.Space{
+    padding: 50px 70px;
+}
+/* FOOTER */
+.footer
+{
+    padding: 30px 80px;
+    background-color: #40bad5;
+}
+
+.footer a
+{
+    text-decoration: none;
+}
+
+.footer > div
+{
+    text-align: center;
+}
+
+.navbot a
+{
+    margin: 0 30px;
+    color: #fff;
+    font-size: 14pt;
+}
+
+.navbot a:hover
+{
+    color: #f2ed6f;
+}
+
+.sosmed
+{
+    margin-top: 20px;
+}
+
+.sosmed a
+{
+    color: #fff;
+    margin: 0 50px;
+    font-size: 14pt;
+}
+
+.sosmed a:hover
+{
+    color: #f2ed6f;
+}
+
+.footer hr
+{
+    width: 300px;
+    margin-top: 20px;
+}
